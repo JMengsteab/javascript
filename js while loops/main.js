@@ -8,15 +8,11 @@ while (counter < 10) {
 
     console.log("counter is" ,counter);
 
- 
-
     counter = counter + 1;
-
 }
 
 console.log("Einde loop");
 
- 
 
 // opdr 2
 
@@ -26,15 +22,11 @@ while (counter < 21) {
 
     console.log("counter is" ,counter);
 
- 
-
     counter = counter + 1;
-
 }
 
 console.log("Einde loop");
 
- 
 
 //opdr 3
 
@@ -44,15 +36,12 @@ while (counter > -1) {
 
     console.log("counter is" ,counter);
 
- 
-
-    counter = counter - 1;
-
+     counter = counter - 1;
 }
 
 console.log("Einde loop");
 
- 
+
 
 //opdr 4
 
@@ -79,8 +68,6 @@ counter = 8;
 while (counter > 0) {
 
     console.log("ik ben een student van ROC Mondriaan" ,counter);
-
- 
 
     counter = counter - 1;
 
