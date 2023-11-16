@@ -45,3 +45,19 @@ while (counter < 10){
      counter = counter + 1;
 }
 
+//opdracht 8
+
+counter = 0
+while (counter < 20) {
+    console.log("While loop", counter) 
+
+    if (counter > 9) {
+        break
+    }
+
+    counter ++
+    
+}
+
+//opdracht 10
+
